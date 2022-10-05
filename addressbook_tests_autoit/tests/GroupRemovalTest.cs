@@ -33,7 +33,6 @@ namespace addressbook_tests_autoit
 
             Assert.AreEqual(oldGroups.Count, newGroups.Count);
             Assert.AreEqual(newGroups, oldGroups);
-
         }
     }
 }

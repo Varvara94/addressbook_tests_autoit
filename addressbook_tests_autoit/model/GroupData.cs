@@ -14,7 +14,6 @@ namespace addressbook_tests_autoit
         {
             return Name.CompareTo(other.Name);
         }
-
         public bool Equals(GroupData other)
         {
             return Name.Equals(other.Name);

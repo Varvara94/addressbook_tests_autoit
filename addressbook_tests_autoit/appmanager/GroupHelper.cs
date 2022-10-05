@@ -29,7 +29,6 @@ namespace addressbook_tests_autoit
                 {
                     Name = item,
                 });
-
             }
             CloseGroupsDialogue();
             return list;
